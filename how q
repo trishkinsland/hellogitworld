@@ -1,0 +1,165 @@
+[33mcommit 0ed8d1c5ee8194f081fdd69a2555006e23ca8d49[m
+Author: Trish Kinsland <patricia.winters@dig.com>
+Date:   Mon Sep 17 11:45:38 2012 -0700
+
+    playing with -A
+
+[33mcommit 89753e2562ce3ca4528593c744b9b8a14a75b023[m
+Author: Trish Kinsland <patricia.winters@dig.com>
+Date:   Mon Sep 17 11:39:07 2012 -0700
+
+    add gitignore
+
+[33mcommit 3c8fb75928a084156723d7ee2b5a22b8795fb5bf[m
+Author: Matthew McCullough <matthew@github.com>
+Date:   Fri Sep 7 14:19:38 2012 -0700
+
+    Fixing it all
+
+[33mcommit 150f0ee88ee8655ee1ebf84e5da44272eaa1fc1f[m
+Author: Matthew McCullough <matthew@github.com>
+Date:   Fri Sep 7 13:43:43 2012 -0700
+
+    Master here
+
+[33mcommit 3a5d596400064e73e39c7eed9f9edebded5d2f04[m
+Merge: 92e22a5 98e3a3f
+Author: Matthew McCullough <matthew@github.com>
+Date:   Fri Sep 7 13:36:19 2012 -0700
+
+    Merge branch 'feature1'
+
+[33mcommit 98e3a3f362020078d9fc24be6f09ec0faf82f3e3[m
+Author: Matthew McCullough <matthew@github.com>
+Date:   Fri Sep 7 13:35:58 2012 -0700
+
+    Feature work
+
+[33mcommit 92e22a51ab13b564f58069f99d53d5c73f540572[m
+Author: Matthew McCullough <matthew@github.com>
+Date:   Fri Sep 7 13:34:10 2012 -0700
+
+    Bug fix
+
+[33mcommit 8d80474ffc3747e3375651cc2a0032c8599befd3[m
+Author: Matthew McCullough <matthew@github.com>
+Date:   Fri Aug 31 13:35:43 2012 -0700
+
+    Travis CI
+
+[33mcommit 78f4771957ffcd015caf609a1721f0fb8ba18cb6[m
+Author: Matthew McCullough <matthew@github.com>
+Date:   Thu Aug 30 17:00:50 2012 -0700
+
+    Fixes #1
+
+[33mcommit c59479302142d79e46f84d11438a41b39ba51a1f[m
+Author: Matthew McCullough <matthew@github.com>
+Date:   Tue Jul 24 22:25:20 2012 -0700
+
+    Added gradle build file
+
+[33mcommit d2280d000c84f1e595e4dec435ae6c1e6c245367[m
+Author: Matthew McCullough <matthew@github.com>
+Date:   Tue Jul 24 22:07:55 2012 -0700
+
+    Adding maven build script
+
+[33mcommit bf7a9a5ee025edee0e610bd7ba23c0704b53c6db[m
+Author: Matthew McCullough <matthew@github.com>
+Date:   Fri Jun 8 22:48:23 2012 -0600
+
+    .gitattributes to make this play nicely onWindows
+
+[33mcommit e83ece763cc9d036715c30c8cb0da93b9d480d86[m
+Author: Matthew McCullough <matthew@github.com>
+Date:   Fri Jun 8 22:16:19 2012 -0600
+
+    Adding log files and build output to ignore
+
+[33mcommit 8d2636da55da593c421e1cb09eea502a05556a69[m
+Author: Matthew McCullough <matthewm@ambientideas.com>
+Date:   Thu May 12 13:21:52 2011 -0600
+
+    Added text about image diff example
+
+[33mcommit 2a52e96389d02209b451ae1ddf45d645b42d744c[m
+Merge: 57d0bf6 818f033
+Author: Matthew McCullough <matthewm@ambientideas.com>
+Date:   Sat May 7 19:16:36 2011 +0200
+
+    Merge branches 'feature_division_polished' and 'feature_subtraction_polished'
+    
+    Conflicts:
+    	src/Main.groovy
+    	Solved by bringing in both features (both imports, both calls)
+
+[33mcommit 57d0bf61e57cdacb309ebd1075257c6bd7e1da81[m
+Author: Matthew McCullough <matthewm@ambientideas.com>
+Date:   Sat May 7 19:12:44 2011 +0200
+
+    Removing subtraction from the division line of code
+
+[33mcommit cb2d322bee073327e058143329d200024bd6b4c6[m
+Author: Matthew McCullough <matthewm@ambientideas.com>
+Date:   Sat May 7 15:44:25 2011 +0200
+
+    Added subtract feature
+
+[33mcommit 818f033c4ae7f26b2b29e904942fa79a5ccaadd0[m
+Author: Matthew McCullough <matthewm@ambientideas.com>
+Date:   Sat May 7 18:42:32 2011 +0200
+
+    Added call and import for subtraction
+
+[33mcommit 369adba006a1bbf25e957a8622d2b919c994d035[m
+Author: Matthew McCullough <matthewm@ambientideas.com>
+Date:   Sat May 7 18:37:02 2011 +0200
+
+    Used static imports to simpify the math calls
+
+[33mcommit 2956e1d20897bf6ed509f6429d7f64bc4823fe33[m
+Author: Matthew McCullough <matthewm@ambientideas.com>
+Date:   Sat May 7 18:36:08 2011 +0200
+
+    Removed unused Square class import
+
+[33mcommit 333fd9bc94084c3e07e092e2bc9c22bab4476439[m
+Author: Matthew McCullough <matthewm@ambientideas.com>
+Date:   Sat May 7 15:39:39 2011 +0200
+
+    Added sum function and test call
+
+[33mcommit f5ed01959cffa4758ca0a49bf4c34b138d7eab0a[m
+Author: Matthew McCullough <matthewm@ambientideas.com>
+Date:   Sat May 7 15:02:11 2011 +0200
+
+    Added shell script to drive the execution of the app
+
+[33mcommit 9cdb160ee4118035bf73c744e3bf72a1ba16484a[m
+Author: Matthew McCullough <matthewm@ambientideas.com>
+Date:   Sat May 7 15:01:44 2011 +0200
+
+    Ignored *.class files
+
+[33mcommit dc64fe4ab8618a5be491a9fca46f1585585ea44e[m
+Author: Matthew McCullough <matthewm@ambientideas.com>
+Date:   Sat May 7 14:59:56 2011 +0200
+
+    Refactored squaring into a separate class
+
+[33mcommit 32c273781bab599b955ce7c59d92c39bedf35db0[m
+Author: Matthew McCullough <matthewm@ambientideas.com>
+Date:   Sat May 7 14:51:17 2011 +0200
+
+    Added sqaring method
+
+[33mcommit 755fd577edcfd9209d0ac072eed3b022cbe4d39b[m
+Author: Matthew McCullough <matthewm@ambientideas.com>
+Date:   Mon Nov 24 21:22:01 2008 -0700
+
+    Addition of the README and basic Groovy source samples.
+    
+    - Addition of the README.txt file explaining what this repository is all about.
+    - Addition of Groovy sample source.
+    - Addition of sample resource Properties file.
